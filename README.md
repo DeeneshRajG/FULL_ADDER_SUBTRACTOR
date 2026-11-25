@@ -61,9 +61,9 @@ endmodule
 
  Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
 
-Developed by: N.Surya
+Developed by: Deenesh Raj G
 
-Register Number: 212225040442
+Register Number: 212225040056
 
 
 **RTL Schematic**
